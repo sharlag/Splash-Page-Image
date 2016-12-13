@@ -1,0 +1,6 @@
+{
+  "name": "Splash Page Image",
+  "tagline": "Simple way to post an image splash page. No copy. No anything - just an image that scales horizontally with the users browser size.",
+  "body": "![Sample Image](https://sharlag.github.io/Splash-Page-Image/hello.jpg)\r\n\r\n\r\n\r\n```bash\r\n//the following style goes in the header. No CSS required. \r\n  <style>\r\n    body {\r\n      background-image: url(hello.jpg);\r\n      background-repeat: no-repeat;\r\n      background-position: 0 0;\r\n      -moz-background-size: cover;\r\n      background-size: cover;\r\n      width:100% !important;\r\n      height: auto;\r\n      margin:0 auto;\r\n      display:block;\r\n   }\r\n  </style>\r\n</script>\r\n```\r\n\r\n\r\n### Support or Contact\r\nHaving trouble with Pages? Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out. @sharlag\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
