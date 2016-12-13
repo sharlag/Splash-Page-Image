@@ -17,5 +17,4 @@ Simple way to post an image splash page. No copy. No anything - just an image th
       display:block;
    }
   </style>
-</script>
 ```
